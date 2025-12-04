@@ -1,1 +1,1 @@
-# object_detector
+# object-detector
